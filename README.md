@@ -1,3 +1,7 @@
 # MCF202
 CURSO 202 2019
 CURSO AGOSTO-DICIEMBRE 2019 
+## ESTE ES UN EJERCICIO
++INSTALAR Github
++Clonar repositorio
+**Emmanuel**
